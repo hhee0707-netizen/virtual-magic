@@ -1,0 +1,19 @@
+{
+  "name": "My Toca Style World",
+  "short_name": "My Toca World",
+  "description": "A kid-friendly play world with space, school, and random worlds, character styling, pets, and chat.",
+  "start_url": "./virtual-world.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#fff7ed",
+  "theme_color": "#fff7ed",
+  "icons": [
+    {
+      "src": "./virtual-world-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
